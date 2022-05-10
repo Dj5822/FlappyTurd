@@ -5,4 +5,5 @@ Introducing Flappy Turd, a total new revolutionary game that is probably not a c
 
 TO DO:
 1) Fix up the cr*ppy code that doesn't seperate view components with controller components.
-2) Convert to an Android Studio Project.
+2) Fix the redundant comments.
+3) Convert to an Android Studio Project.
